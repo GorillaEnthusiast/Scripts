@@ -21,3 +21,5 @@ if tostring(obj) == "Humanoid" and tostring(idx) == "WalkSpeed" then
   end
  return oldNewIndex(obj, idx, val)
 end)
+
+setreadonly(mt, true)
