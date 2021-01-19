@@ -1,3 +1,8 @@
+--[[
+  Instructions:
+  Execute and Click the case bux button then enjoy!
+]]
+
 _G.Remote = nil
 _G.RemoteKey = nil
 
